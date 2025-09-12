@@ -1,10 +1,10 @@
 {
-    "url": "https://xsstyo.github.io/test.json",
+    "url": "https://xsstyo.github.io/tahu.yaml",
     "urls": [{
-        "url": "https://xsstyo.github.io/test.json",
+        "url": "https://xsstyo.github.io/tahu.yaml",
         "name": "Foo"
     },{
-        "url": "https://xsstyo.github.io/test.json",
+        "url": "https://xsstyo.github.io/tempe.yaml",
         "name": "Foo2"
     }]
 }
